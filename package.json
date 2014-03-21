@@ -1,6 +1,6 @@
 {
   "name": "inherit-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "inheritance for javascript",
   "main": "inherit-js.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peichao01/JSKit/tree/master/inherit.js"
+    "url": "https://github.com/peichao01/inherit-js"
   },
   "keywords": [
     "inherit",
