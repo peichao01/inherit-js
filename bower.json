@@ -1,0 +1,28 @@
+{
+  "name": "inherit-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/peichao01/JSKit/tree/master/inherit.js",
+  "authors": [
+    "chao2 <380692952@qq.com>"
+  ],
+  "description": "inheritance for javascript",
+  "main": "inherit-js.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "inherit",
+    "inheritance",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

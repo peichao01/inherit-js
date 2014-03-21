@@ -1,0 +1,23 @@
+{
+  "name": "inherit-js",
+  "version": "1.0.0",
+  "description": "inheritance for javascript",
+  "main": "inherit-js.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peichao01/JSKit/tree/master/inherit.js"
+  },
+  "keywords": [
+    "inherit",
+    "inheritance",
+    "javascript"
+  ],
+  "author": "chao2 <380692952@qq.com>",
+  "license": "MIT"
+}
