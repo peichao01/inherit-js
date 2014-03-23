@@ -1,6 +1,6 @@
 {
   "name": "inherit-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "inheritance for javascript",
   "main": "inherit-js.js",
   "directories": {
@@ -16,6 +16,11 @@
   "keywords": [
     "inherit",
     "inheritance",
+    "class",
+    "prototype",
+    "mixins",
+    "static",
+    "extends",
     "javascript"
   ],
   "author": "chao2 <380692952@qq.com>",

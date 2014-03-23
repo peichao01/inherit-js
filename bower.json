@@ -1,6 +1,6 @@
 {
   "name": "inherit-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/peichao01/inherit-js",
   "authors": [
     "chao2 <380692952@qq.com>"
@@ -15,6 +15,11 @@
   "keywords": [
     "inherit",
     "inheritance",
+    "class",
+    "prototype",
+    "mixins",
+    "static",
+    "extends",
     "javascript"
   ],
   "license": "MIT",
